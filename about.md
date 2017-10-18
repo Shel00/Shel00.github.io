@@ -16,4 +16,4 @@ To know more about my work please contact me below.
 
 ### Contact me
 
-[email@domain.com](mailto:shelza.roo@gmail.com)
+[shelza.roo@gmail.com](mailto:shelza.roo@gmail.com)
