@@ -1,0 +1,4 @@
+Readme.md
+
+My Capstone project was on the text analytics of Jira Incident tickets.
+Using NLP and classfiication , I build a classifier to categorize these Inciden tickets based on the text avaiable in their title.
