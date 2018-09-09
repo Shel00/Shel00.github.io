@@ -1,4 +1,4 @@
 Readme.md
 
-My Capstone project was on the text analytics of Incident tickets.
-Using NLP and other machine learning tools , I build a classifier to categorize these Incident tickets based on the text avaiable in their title.
+My Capstone project was on the text analytics of Service Desk Incident tickets.
+Using NLP and other machine learning tools , I build a classifier to categorize these Incident tickets based on the their title.
